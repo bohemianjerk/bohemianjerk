@@ -1,16 +1,52 @@
-## Hi there 👋
+# Привет, я Никита 👋
 
-<!--
-**bohemianjerk/bohemianjerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior QA Engineer • 20 лет**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Контакты
+- Email: bohemianjerk@gmail.com  
+- Telegram: [@uneedaslap](https://t.me/uneedaslap)
+
+---
+
+## 🔭 Учебные проекты
+- [1T Final Project](https://github.com/uneedaslap/1T_final)  
+- *Проекты Яндекс.Практикума* (скоро)
+
+---
+
+## 🎨 Хобби
+- Лепка из глины  
+- Гитара  
+- Шахматы
+
+---
+
+<details>
+  <summary>English (click to expand)</summary>
+
+  # Hi, I’m Nikita 👋
+
+  **Junior QA Engineer • 20 years old**
+
+  ---
+
+  ## 📫 Contact
+  - Email: bohemianjerk@gmail.com  
+  - Telegram: [@uneedaslap](https://t.me/uneedaslap)
+
+  ---
+
+  ## 🔭 Studies
+  - [1T Final Project](https://github.com/uneedaslap/1T_final)  
+  - *Yandex Practicum projects* (coming soon)
+
+  ---
+
+  ## 🎨 Hobbies
+  - Clay sculpting  
+  - Guitar  
+  - Chess
+
+</details>
