@@ -24,6 +24,7 @@
   ## 📫 Contact
   - Email: bohemianjerk@gmail.com  
   - Telegram: [@uneedaslap](https://t.me/uneedaslap)
+  - CodeWars: [bohemianjerk](https://www.codewars.com/users/bohemianjerk)
 
   ## 🔭 Studies
   - [1T Final Project](https://github.com/uneedaslap/1T_final)  
