@@ -21,7 +21,7 @@
 <details>
   <summary>English (click to expand)</summary>
 
-  # Hi, I’m Nikita 👋  
+# Hi, I’m Nikita 👋  
   **Junior QA Engineer • 20 years old**
 
 ##📃 **Portfolio**
@@ -31,12 +31,12 @@
 - [Yandex.Practicum projects](https://github.com/bohemianjerk/Portfolio)
 - [1T Final Project](https://github.com/bohemianjerk/1T_final)
 
-  ## 📫 Contact
+## 📫 Contact
   - Email: bohemianjerk@gmail.com  
   - Telegram: [@uneedaslap](https://t.me/uneedaslap)
   - CodeWars: [bohemianjerk](https://www.codewars.com/users/bohemianjerk)
 
-  ## 🎨 Hobbies
+## 🎨 Hobbies
   - Clay sculpting  
   - Guitar  
   - Chess
