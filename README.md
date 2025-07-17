@@ -5,7 +5,7 @@
 - https://github.com/bohemianjerk/Portfolio
 
 ## 🔭 Учебные проекты
-- [Проекты Яндекс.Практикума] (https://github.com/bohemianjerk/Portfolio)
+- [Проекты Яндекс.Практикума](https://github.com/bohemianjerk/Portfolio)
 - [1T Final Project](https://github.com/bohemianjerk/1T_final)  
 
 ## 📫 Контакты
@@ -28,7 +28,7 @@
 - https://github.com/bohemianjerk/Portfolio
 
 ## 🔭 Online Courses
-- [Проекты Яндекс.Практикума] (https://github.com/bohemianjerk/Portfolio)
+- [Yandex.Practicum projects](https://github.com/bohemianjerk/Portfolio)
 - [1T Final Project](https://github.com/bohemianjerk/1T_final)
 
   ## 📫 Contact
