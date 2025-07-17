@@ -1,14 +1,17 @@
 # Привет, я Никита 👋  
 **Junior QA Engineer • 20 лет**
 
+##📃 **Портфолио**
+- https://github.com/bohemianjerk/Portfolio
+
+## 🔭 Учебные проекты
+- [Проекты Яндекс.Практикума] (https://github.com/bohemianjerk/Portfolio)
+- [1T Final Project](https://github.com/bohemianjerk/1T_final)  
+
 ## 📫 Контакты
 - Email: bohemianjerk@gmail.com  
 - Telegram: [@uneedaslap](https://t.me/uneedaslap)
 - CodeWars: [bohemianjerk](https://www.codewars.com/users/bohemianjerk)
-
-## 🔭 Учебные проекты
-- [1T Final Project](https://github.com/uneedaslap/1T_final)  
-- *Проекты Яндекс.Практикума* (скоро)
 
 ## 🎨 Хобби
 - Лепка из глины  
@@ -21,14 +24,17 @@
   # Hi, I’m Nikita 👋  
   **Junior QA Engineer • 20 years old**
 
+##📃 **Portfolio**
+- https://github.com/bohemianjerk/Portfolio
+
+## 🔭 Online Courses
+- [Проекты Яндекс.Практикума] (https://github.com/bohemianjerk/Portfolio)
+- [1T Final Project](https://github.com/bohemianjerk/1T_final)
+
   ## 📫 Contact
   - Email: bohemianjerk@gmail.com  
   - Telegram: [@uneedaslap](https://t.me/uneedaslap)
   - CodeWars: [bohemianjerk](https://www.codewars.com/users/bohemianjerk)
-
-  ## 🔭 Studies
-  - [1T Final Project](https://github.com/uneedaslap/1T_final)  
-  - *Yandex Practicum projects* (coming soon)
 
   ## 🎨 Hobbies
   - Clay sculpting  
