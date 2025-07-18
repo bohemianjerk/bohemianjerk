@@ -6,7 +6,7 @@
 
 ## 🔭 Учебные проекты
 - [Проекты Яндекс.Практикума](https://github.com/bohemianjerk/Portfolio)
-- [1T Final Project](https://github.com/bohemianjerk/1T_final)  
+- [1T Final Project](https://github.com/bohemianjerk/1T_Homework/tree/main/final-project)  
 
 ## 📫 Контакты
 - Email: bohemianjerk@gmail.com  
@@ -29,7 +29,7 @@
 
 ## 🔭 Online Courses
 - [Yandex.Practicum projects](https://github.com/bohemianjerk/Portfolio)
-- [1T Final Project](https://github.com/bohemianjerk/1T_final)
+- [1T Final Project](https://github.com/bohemianjerk/1T_Homework/tree/main/final-project)
 
 ## 📫 Contact
   - Email: bohemianjerk@gmail.com  
