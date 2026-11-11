@@ -1,5 +1,5 @@
 # Привет, я Никита 👋  
-**Junior QA Engineer • 20 лет**
+**Junior QA Engineer • 22 года**
 
 ## 📃 **Портфолио**
 - https://github.com/bohemianjerk/Portfolio
